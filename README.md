@@ -3,7 +3,7 @@ Battery Voltage Tester: Constant-Current Load with ADC Measurement and LCD Displ
 
 ## About the Project
 
-![Live Battery Testing Setup](images/systemInOperation.jpg)
+![Live Battery Testing Setup](assets/systemInOperation.jpg)
 This project is an Arduino-based AA battery tester designed to accurately measure the health of a 1.5V cell. Unlike standard multimeters that only measure open-circuit voltage—which can falsely show a depleted battery as fully charged at rest—this circuit applies a realistic constant load current of approximately 116 mA during testing. By measuring the terminal voltage while the battery does real work, it provides a highly accurate and honest assessment of the battery's remaining life.
 
 ## Features
