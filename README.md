@@ -49,4 +49,3 @@ Because the battery is measured under load, the voltage thresholds are adjusted 
 2. Ensure you have the `Wire.h` and `LiquidCrystal_I2C.h` libraries installed in your Arduino environment.
 3. Upload the provided source code to your Arduino Uno.
 4. Connect a 1.5V AA battery to the terminals to see the live loaded voltage and health bar populate on the LCD screen.
-```
